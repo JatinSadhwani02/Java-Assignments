@@ -29,7 +29,7 @@ public class Question2 {
     public static void main(String[] args) { 
         Details dt = new Details();
         dt.setName("Jatin Sadhwani");
-        dt.setEmail("jatin.sadhwani@quantiphi.com");
+        dt.setEmail("jatinsadhwani.1234@gmail.com");
         dt.setPhone("7566647818");
 
         System.out.println("Name : "+dt.getName()+ "\nEmail : "+dt.getEmail()+ "\nPhone Number : "+dt.getPhone());
